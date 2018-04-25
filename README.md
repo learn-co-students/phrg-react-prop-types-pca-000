@@ -155,3 +155,4 @@ In this lesson, we've covered the basics of using PropTypes. There's much more v
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-prop-types'>propTypes</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React PropTypes</p>
